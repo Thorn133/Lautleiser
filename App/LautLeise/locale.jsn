@@ -1,0 +1,17 @@
+{
+	"default":"en",
+	"en":{
+		"name":"Volume Control",
+		"title":"Volume Control",
+		"switch":"Switch",
+		"low":"Low Volume",
+		"high":"High Volume"
+	},
+	"de":{
+		"name":"Lautstaerkeregelung",
+		"title":"Lautstaerkeregelung",
+		"switch":"Schalter",
+		"low":"Niedrige Lautstaerke",
+		"high":"Hohe Lautstaerke"
+	}
+}
